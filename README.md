@@ -2,7 +2,7 @@
 ## I make some Mobile Applications in Android Studios
     
 
-#### If you want to download the apk file from here then download the file from a particular folder which you want and go to your storage apk section and click on it to install the app....
+#### If you want to download the apk file from here then download the file from a particular(app) folder which you want and go to your storage apk section and click on it to install the app....
 
 Download this file `app-debug.apk`
 
