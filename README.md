@@ -1,11 +1,14 @@
 # Hello!
 ## I make some Mobile Applications in Android Studios
+    
 
+#### If you want to download the apk file from here then download the file from a particular folder which you want and go to your storage apk section and click on it to install the app....
 
-### 1st APP: Multiplication Table     
+Download this file `app-debug.apk`
 
-#### If you want to download the apk file from here then download the below mentioned file and go to your storage apk section and click on it to install the app....
 <br>
+
+### 1st APP: Multiplication Table 
 
 <div>
     <img src="Multiplication_Table/Screenshot%20(475).png" width="280px" >
@@ -14,10 +17,6 @@
 <br>
 
 ### 2nd APP: Calculator  
-
-#### If you want to download the apk file from here then download the below mentioned file and go to your storage apk section and click on it to install the app....
-
-<br>
 
 <div>
     <img src="Calculator/Screenshot%20(495).png" width="280px" >
