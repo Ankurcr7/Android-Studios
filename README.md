@@ -9,7 +9,7 @@ Download this File: `app-debug.apk`
 <br>
 
 <div>
-    <img src="Screenshot (475).png" width="280px" >
+    <img src="Multiplication_Table/Screenshot%20(475).png" width="280px" >
 </div>
 
 <br>
