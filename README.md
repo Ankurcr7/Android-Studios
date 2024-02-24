@@ -16,10 +16,11 @@
 ### 2nd APP: Calculator  
 
 #### If you want to download the apk file from here then download the below mentioned file and go to your storage apk section and click on it to install the app....
+
 <br>
 
 <div>
-    <img src="Multiplication_Table/Screenshot%20(436).png" width="280px" >
+    <img src="Calculator/Screenshot%20(495).png" width="280px" >
 </div>
 
 <br>
