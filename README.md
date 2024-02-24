@@ -1,15 +1,25 @@
+# Hello!
+## I make some Mobile Applications in Android Studios
 
-# Its a multiplication table app made on android studios...    
 
-### If you want to download the apk file from here then download the below mentioned file and go to your storage apk section and click on it to install the app....
-<br>
+### 1st APP: Multiplication Table     
 
-Download this File: `app-debug.apk`
-
+#### If you want to download the apk file from here then download the below mentioned file and go to your storage apk section and click on it to install the app....
 <br>
 
 <div>
     <img src="Multiplication_Table/Screenshot%20(475).png" width="280px" >
+</div>
+
+<br>
+
+### 2nd APP: Calculator  
+
+#### If you want to download the apk file from here then download the below mentioned file and go to your storage apk section and click on it to install the app....
+<br>
+
+<div>
+    <img src="Multiplication_Table/Screenshot%20(436).png" width="280px" >
 </div>
 
 <br>
